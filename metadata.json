@@ -1,0 +1,6 @@
+{
+  "name": "AgriConnect – Farmer–Consumer Networking Platform",
+  "description": "Database-driven agricultural marketplace connecting verified local farmers directly with consumers featuring relational SQL data management, secure checkout, and real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
